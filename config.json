@@ -1,0 +1,15 @@
+{
+    "title": "Photos Test Project A",
+    "baseURL": "https:\/\/videos.photostestprojecta.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "photostestprojecta.com"
+    }
+}
